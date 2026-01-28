@@ -1,6 +1,6 @@
 # EcoScan - Informações de Reciclagem na Palma da Mão ♻️📱
 
-**Repositório:**  https://github.com/IzidoroSouza/ProjetoEcoScan 
+**Repositório:**  https://github.com/DennyLucas/Projeto-Eco-Scan 
 
 Aplicação móvel Full Stack (React Native com Expo + ASP.NET Core) que permite escanear códigos de barras de produtos para obter informações sobre seus materiais, dicas de descarte e reciclagem, e impacto na sustentabilidade. O projeto também permite que usuários contribuam com informações para produtos não encontrados.
 
